@@ -73,3 +73,4 @@ const getAbbigliamento = function () {
 };
 
 getAbbigliamento();
+console;

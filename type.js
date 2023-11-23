@@ -37,3 +37,4 @@ var getAbbigliamento = function () {
     });
 };
 getAbbigliamento();
+console;
